@@ -2,12 +2,6 @@
 
 A MySQL database containerization with initialization scripts and data persistence. 
 
-## Project Structure
-mysql-docker/
-├── Dockerfile         # MySQL image configuration
-├── docker-compose.yml # Container orchestration
-├── init.sql          # Database initialization
-└── README.md         # Project documentation
 
 
 ## Prerequisites
